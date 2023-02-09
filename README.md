@@ -12,6 +12,7 @@ All the listed docker profiles assume that:
   - [x] with sample database
   - [ ] automate sample database generation
 - [x] portainer
+- [x] pihole
 - [ ] postgresql
 - [ ] nexus
 - [ ] jenkins
